@@ -6,9 +6,9 @@ layout: page
 ________________________________________________________________________________
 <img src="/images/wentingzhao1.jpg" class="floatpic" width="100" height="100">
 
-My name is Wenting Zhao. I am a first year PhD student at [BDSC Lab][BDSC Lab] at [UIC][UIC]. My advisor is [Prof. Philip S. Yu][Prof. Philip S. Yu]. My research interests lie in machine learning, data mining and evolutionary computation.
+My name is Wenting Zhao. I am a first year PhD student at [BDSC Lab][BDSC Lab] at [UIC][UIC]. My advisor is [Prof. Philip S. Yu][Prof. Philip S. Yu]. My research interests lie in Image Processing, Machine Learning and Evolutionary Computation.
 
-Prior to joining UIC, I received M.Eng. in Software Engineering from [Shandong University][Shandong University] with the supervision of [Prof. Yilong Yin] and [Prof. Lijin Wang] in 2017. In my master’s thesis, I focus on the improvement of a novel evolutionary algorithm named Backtracking Search Algorithm. And I obtained my B.Eng. in Software Engineering from [Shandong University][Shandong University] in 2014.
+Prior to joining UIC, I received M.Eng. in Software Engineering from [Shandong University][Shandong University] with the supervision of [Prof. Yilong Yin] and [Prof. Lijin Wang] in 2017. And I obtained my B.Eng. in Software Engineering from [Shandong University][Shandong University] in 2014.
 
 
 [BDSC Lab]: https://bdsc.lab.uic.edu/
