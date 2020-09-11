@@ -5,7 +5,7 @@ layout: page
 # Bio
 ____________________________________________________________
 
-Hi, I'm Wenting Zhao. Currently, I am a third year PhD student at [BDSC Lab][BDSC Lab] in [UIC][UIC]. My research interests are natural language processing, table to text generation and dialogue generation in particular.
+I'm Wenting Zhao, a third year PhD student at [BDSC Lab][BDSC Lab] in [UIC][UIC]. My research interests are natural language processing and few shot learning, particularly table to text generation and dialogue generation.
 
 Prior to joining UIC, I received my master degree in Software Engineering from [Shandong University][Shandong University] with the supervision of [Prof. Yilong Yin] and [Prof. Lijin Wang] in 2017. I obtained my bachelor degree from [Shandong University][Shandong University] in 2014.
 
