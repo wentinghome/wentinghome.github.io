@@ -2,13 +2,12 @@
 layout: page
 ---
 
-# About Me
-________________________________________________________________________________
-<img src="/images/wentingzhao1.jpg" class="floatpic" width="100" height="100">
+# Bio
+____________________________________________________________
 
-Hi, I'm Wenting Zhao. Currently, I am a third year PhD student at [BDSC Lab][BDSC Lab] in [UIC][UIC], and I'm advised by [Prof. Philip S. Yu][Prof. Philip S. Yu]. My research interests lie in natural language processing, particularly in table to text generation and dialogue generation.
+Hi, I'm Wenting Zhao. Currently, I am a third year PhD student at [BDSC Lab][BDSC Lab] in [UIC][UIC]. My research interests are natural language processing, table to text generation and dialogue generation in particular.
 
-Prior to joining UIC, I received my master degree in Software Engineering from [Shandong University][Shandong University] under the supervision of [Prof. Yilong Yin] and [Prof. Lijin Wang] in 2017. I obtained my bachelor degree from [Shandong University][Shandong University] in 2014.
+Prior to joining UIC, I received my master degree in Software Engineering from [Shandong University][Shandong University] with the supervision of [Prof. Yilong Yin] and [Prof. Lijin Wang] in 2017. I obtained my bachelor degree from [Shandong University][Shandong University] in 2014.
 
 
 [BDSC Lab]: https://bdsc.lab.uic.edu/
