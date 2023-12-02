@@ -1,0 +1,46 @@
+papers:
+
+  - title: "Sequential Quadratic Programming Enhanced Backtracking Search Algorithm"
+    authors: "<b>Wenting Zhao</b>, Lijin Wang, Yilong Yin, et al"
+    venue: "Frontiers of Computer Science. 2018."
+    paper_pdf: "/assets/publications/2018SQPBSA.pdf"
+    selected: n
+    
+   - authors: "<b>Wenting Zhao</b>, Lijin Wang, Bingqing Wang, Yilong Yin"
+    title: "Best Guided Backtracking Search Algorithm for Numerical Optimization Problems"
+    venue: "9th International Conference on Knowledge Science, Engineering and Management **(KSEM 2016)**"
+    paper_pdf: 2016BGBSAzhao.pdf
+    slides: 2016BGBSAzhaoslides.pdf
+    selected: n
+  
+    - authors: "<b>Wenting Zhao</b>, Lijin Wang, Yilong Yin, Bingqing Wang, Yi Wei, Yushan Yin"
+    title: "An Improved Backtracking Search Algorithm for Constrained Optimization Problems"
+    paper_pdf: 2014IBSAzhao.pdf
+    venue: "7th International Conference on Knowledge Science, Engineering and Management **(KSEM 2014)**"
+    selected: n
+
+  - authors: "<b>Wenting Zhao</b>, Lijin Wang, Yuxiao Shi, Xiaoming Xi, Yilong Yin, Yuchun Tang"
+    title: "A Multi-objective Framework for Brain MRI Threshold Segmentation"
+    paper_pdf: 2017Multiobjective Framework.pdf
+    venue: "8th International Conference on Information Technology in Medicine and Education **(ITME 2016)**"
+    selected: n
+
+  - title: "Click-Conversion Multi-Task Model with Position Bias Mitigation for Sponsored Search in eCommerce"
+    authors: "Yibo Wang, Yanbing Xue, Bo Liu, Musen Wen, Wenting Zhao, Stephen Guo, Philip Yu"
+    venue: "SIGIR 2023"
+    selected: y
+    
+
+  - title: "Attend, memorize and generate: Towards faithful table-to-text generation in few shots"
+    authors: "**Wenting Zhao**, Ye Liu, Yao Wan, Philip S Yu"
+    venue: "Findings of the Association for Computational Linguistics: EMNLP 2021."
+    paper_pdf: "/assets/publications/2021.findings-emnlp.347.pdf"
+    selected: y
+
+  - title: "Enriching non-autoregressive transformer with syntactic and semanticstructures for neural machine translation"
+    authors: "Ye Liu, Yao Wan, Jian-Guo Zhang, Wenting Zhao, Philip S Yu"
+    venue: "EACL2021"
+    paper_pdf: "/assets/publications/2021.eacl-main.105.pdf"
+    vedio: "https://www.virtual2021.eacl.org/paper_main.456.html"
+    selected: y
+

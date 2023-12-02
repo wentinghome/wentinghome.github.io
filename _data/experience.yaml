@@ -1,0 +1,32 @@
+experiences:
+
+
+- place: "Salesforce"
+  time: "Expected 2023 May - 2023 Aug"
+  title: "Research Scientist, Intern"
+  category: "work"
+    
+- place: "UIC"
+  time: "2018 - now"
+  title: "PhD"
+  category: "school"
+  
+- place: "Amazon"
+  time: "2022 May - 2023 Jan"
+  title: "Applied Research Scientist, Intern"
+  category: "work"
+
+
+- place: "Shandong University"
+  time: "2014 - 2017"
+  title: "Master Student"
+  category: "school"
+
+- place: "Shandong University"
+  time: "2010 - 2014"
+  title: "Undergraduate Student"
+  category: "school"
+ 
+
+
+
